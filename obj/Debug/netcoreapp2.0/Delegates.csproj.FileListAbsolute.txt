@@ -1,0 +1,10 @@
+/Users/janmoennig/Documents/Code/CSharp/Delegates/obj/Debug/netcoreapp2.0/Delegates.csproj.CoreCompileInputs.cache
+/Users/janmoennig/Documents/Code/CSharp/Delegates/obj/Debug/netcoreapp2.0/Delegates.AssemblyInfoInputs.cache
+/Users/janmoennig/Documents/Code/CSharp/Delegates/obj/Debug/netcoreapp2.0/Delegates.AssemblyInfo.cs
+/Users/janmoennig/Documents/Code/CSharp/Delegates/bin/Debug/netcoreapp2.0/Delegates.deps.json
+/Users/janmoennig/Documents/Code/CSharp/Delegates/bin/Debug/netcoreapp2.0/Delegates.runtimeconfig.json
+/Users/janmoennig/Documents/Code/CSharp/Delegates/bin/Debug/netcoreapp2.0/Delegates.runtimeconfig.dev.json
+/Users/janmoennig/Documents/Code/CSharp/Delegates/bin/Debug/netcoreapp2.0/Delegates.dll
+/Users/janmoennig/Documents/Code/CSharp/Delegates/bin/Debug/netcoreapp2.0/Delegates.pdb
+/Users/janmoennig/Documents/Code/CSharp/Delegates/obj/Debug/netcoreapp2.0/Delegates.dll
+/Users/janmoennig/Documents/Code/CSharp/Delegates/obj/Debug/netcoreapp2.0/Delegates.pdb
