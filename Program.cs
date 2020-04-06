@@ -7,14 +7,15 @@ namespace Delegates
     public delegate void InternalHandler(int input);
     static void Main(string[] args)
     {
-      // internal call
+      // internal call 
+      // the pipeline (delegate) dumps its data to a an "event handler" DelegateMethod
       InternalHandler delInternal = new InternalHandler(DelegateMethod);
       delInternal(2);
 
       // external call
-      DelegateTest delTest = new DelegateTest();
-      DelegateTest.ExternalHandler ExternalHandler = DelegateMethod;
-      delTest.MyHelperMethod(ExternalHandler);
+      DelegateTest delExternal = new DelegateTest();
+      DelegateTest.ExternalHandler externalHandler = DelegateMethod;
+      delExternal.MyHelperMethod(externalHandler);
     }
 
     static void DelegateMethod(int inputValue)
