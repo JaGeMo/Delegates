@@ -1,8 +1,8 @@
 class DelegateTest
 {
-  public delegate void TestDelegate(int input);
+  public delegate void ExternalHandler(int input);
 
-  public void MyHelperMethod(TestDelegate delegateInput)
+  public void MyHelperMethod(ExternalHandler delegateInput)
   {
     delegateInput(7);
   }
